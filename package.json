@@ -16,9 +16,9 @@
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
     "body-parser": "^1.18.3",
     "express": "^4.16.3",
-    "googleapis": "^27.0.0",
-    "hbs": "^4.0.1",
-    "jest": "^23.4.1",
+    "googleapis": "^42.0.0",
+    "hbs": "^4.0.4",
+    "jest": "^24.9.0",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "react-draggable": "^3.0.5",
@@ -40,7 +40,7 @@
     "enzyme": "^3.3.0",
     "enzyme-adapter-react-16": "^1.1.1",
     "webpack": "^4.16.1",
-    "webpack-dev-server": "^3.1.4"
+    "webpack-dev-server": "^3.8.0"
   },
   "scripts": {
     "test": "jest",
